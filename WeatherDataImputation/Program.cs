@@ -51,7 +51,6 @@ namespace WeatherDataImputation
                 if (Date(data[n]) == Date(dataExt[m - 1]).AddHours(1))
                 {
                     dataExt[m] = data[n];
-                    dataExt[m] = data[n];
                     n++;
                     m++;
                 }
