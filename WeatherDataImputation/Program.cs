@@ -44,7 +44,7 @@ namespace WeatherDataImputation
             int m = 1; //for dataExt
 
             String[] dataCreated = new String[data.Length];
-            int c = 0;
+            int c = 0; //for dataCreated
 
             while (n < data.Length)
             {
