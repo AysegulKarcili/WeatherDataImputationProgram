@@ -3,7 +3,7 @@
 Completes the missing dates and missing hours in whether data belonging to Turkey cities, using the arithmetic average of temperature values on the one upper and one below lines.
 
 Data for the city Elazığ is among the given files.
-Here are some example data rows: (Hourly temperature data of Elazığ between 01.01.2012 00:00:00 and 02.01.2012 03:00:00)
+Here are some example data rows: (Hourly temperature data for Elazığ between 01.01.2012 00:00:00 and 02.01.2012 03:00:00)
 
 17201|ELAZIÐ BÖLGE|2012|1|1|0|1.3
 17201|ELAZIÐ BÖLGE|2012|1|1|1|0.9
@@ -34,4 +34,4 @@ Here are some example data rows: (Hourly temperature data of Elazığ between 01
 17201|ELAZIÐ BÖLGE|2012|1|2|2|1.7
 17201|ELAZIÐ BÖLGE|2012|1|2|3|1.8
 
-If, for example, the third row was missing, the program would input the line with 1.0 degrees Celcius. ((0.9+1.1)/2 = 1.0)
+If, for example, the third row was missing in the data, the program would input the line with 1.0 degrees Celcius. ((0.9+1.1)/2 = 1.0)
