@@ -1,6 +1,6 @@
 # WeatherDataImputationProgram
 
-Completes the missing dates and missing hours in whether data belonging to Turkey cities. Uses the arithmetic average of temperature values on the one upper and one below lines.
+Completes the missing dates and missing hours in whether data belonging to Turkey cities, using the arithmetic average of temperature values on the one upper and one below lines.
 
 Data for the city Elazığ is among the given files.
 Here are some example data rows: (Hourly temperature data of Elazığ between 01.01.2012 00:00:00 and 02.01.2012 03:00:00)
